@@ -1,3 +1,3 @@
 # cabotkey
 
-Powered by https://getsongkey.com/
+Powered by [getsongbpm.com](https://getsongbpm.com/)
